@@ -6,6 +6,7 @@ Create emergent stories playable on the web or desktop with only a simple text e
 
 <img src="/images/demo.png" alt="demo" />
 <img src="/images/dialog-demo.png" alt="demo" />
+<img src="/images/gameloop-demo.png" alt="demo" />
 
 This is a 'Tech Demo' meaning that this project is currently at a _very_ early stage of development. More showing capabilities of what is possible.  
   
