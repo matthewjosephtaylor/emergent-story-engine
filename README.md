@@ -4,6 +4,8 @@ Create emergent stories playable on the web or desktop with only a simple text e
 
 [Click to Play](https://matthewjosephtaylor.github.io/emergent-story-engine/)
 
+<img src="/images/demo.png" alt="demo" width="50vw"/>
+
 This is a 'Tech Demo' meaning that this project is currently at a _very_ early stage of development. More showing capabilities of what is possible.  
   
 Currently Demonstrating:
